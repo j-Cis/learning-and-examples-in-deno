@@ -5,6 +5,7 @@
   },
   "workspace": [
     "./mods/mod-deno-math",
+    "./mods/fs-structure-reader",
     "./projects/examples"
   ],
   "publish": {
