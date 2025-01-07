@@ -1,3 +1,6 @@
 [submodule "mods/mod-deno-math"]
 	path = mods/mod-deno-math
 	url = https://github.com/j-Cis/mod-deno-math.git
+[submodule "mods/fs-structure-reader"]
+	path = mods/fs-structure-reader
+	url = https://github.com/j-Cis/mod-deno-file-structure-reader.git
