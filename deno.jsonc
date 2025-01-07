@@ -1,0 +1,19 @@
+{
+  "version": "0.0.1-alpha.1",
+  "workspace": [
+    "./mods/mod-deno-math"
+  ],
+  "publish": {
+    "exclude": [
+      // .gitignore
+      "deno.lock",
+      "node_modules"
+    ]
+  }
+}
+/*
+** ABOUT deno.jsonc
+** https://docs.deno.com/runtime/fundamentals/configuration/
+** ABOUT WORKSPACE & MONOREPO
+** https://docs.deno.com/runtime/fundamentals/workspaces/
+*/

@@ -1,0 +1,3 @@
+[submodule "mods/mod-deno-math"]
+	path = mods/mod-deno-math
+	url = https://github.com/j-Cis/mod-deno-math.git
