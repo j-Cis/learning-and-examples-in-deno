@@ -1,5 +1,5 @@
 // @ts-ignore <ts(2307)> (lokalny moduł)
-import { add, subtract } from "@j-Cis/mod-deno-math";
+import { add, subtract } from "@j-cis/mod-deno-math";
 
 
 // Learn more at https://docs.deno.com/runtime/manual/examples/module_metadata#concepts
