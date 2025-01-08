@@ -4,3 +4,6 @@
 [submodule "mods/fs-structure-reader"]
 	path = mods/fs-structure-reader
 	url = https://github.com/j-Cis/mod-deno-file-structure-reader.git
+[submodule "wiki"]
+	path = wiki
+	url = https://github.com/j-Cis/learning-and-examples-in-deno.wiki.git
